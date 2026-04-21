@@ -1668,6 +1668,14 @@ def: "Overall early stage evaluation rating where True is 'pass' and False is 'f
 synonym: "” RELATED []
 relationship: VARIABLE_OF SUGARCANE:0000000 ! Sugarcane Trait Ontology
 
+[Term]
+id: SUGARCANE:0000199
+name: SkipCount
+namespace: sugarcane_trait
+def: "Number of 3-foot skips observed within the plot" []
+synonym: "” RELATED []
+relationship: VARIABLE_OF SUGARCANE:0000000 ! Sugarcane Trait Ontology
+
 [Typedef]
 id: VARIABLE_OF
 name: VARIABLE_OF
